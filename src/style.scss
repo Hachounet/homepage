@@ -89,7 +89,7 @@ h1 {
   transform: translate(0%, 25%);
 
   width: 100%;
-  font-size: clamp(16px, calc(1.5rem + 2vw), 80px);
+  font-size: clamp(16px, calc(2rem + 2vw), 80px);
 
   text-align: center;
   color: white;
@@ -282,7 +282,7 @@ footer {
 
 @media screen and (max-width: 570px) {
   .intro-container {
-    font-size: 8px;
+    font-size: 10px;
 
     p {
       font-size: 2em;
